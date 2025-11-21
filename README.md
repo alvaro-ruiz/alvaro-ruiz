@@ -1,14 +1,12 @@
 # ¡Hola! 👋 Soy Álvaro Ruiz
 
-![header](https://raw.githubusercontent.com/alvaro-ruiz/alvaro-ruiz/main/assets/header-lineal.png)
-
 ## Sobre mí
 Desarrollador full-stack / Java | Angular | C.  
 Me gusta crear apps limpias, optimizar código y aprender nuevas tecnologías.
 
 ### 🔭 Actualmente
-- Trabajando en **MiBiblioteca** (app Java/JavaFX).
-- Mejorando algoritmos en C (Push_Swap, minitalk).
+- Trabajando en **NeuroGym**.
+- Empezando a formarme como tester.
 
 ### 🛠️ Tecnologías
 - **Lenguajes:** Java, TypeScript, C  
@@ -25,8 +23,8 @@ Me gusta crear apps limpias, optimizar código y aprender nuevas tecnologías.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-ruiz&layout=compact)
 
 ### 📫 Contacto
-- Email: tu-email@ejemplo.com  
-- LinkedIn: https://www.linkedin.com/in/tu-perfil
+- Email: aaruizblanquez@gmail.com
+- LinkedIn: www.linkedin.com/in/álvaro-ruiz-blánquez-aruiz-bl
 
 ---
 
