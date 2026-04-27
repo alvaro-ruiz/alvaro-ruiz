@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center">👋 ¡Hola! Soy Álvaro Ruiz / Hello! I'm Álvaro Ruiz</h1>
+<h1 align="center"> ¡Hola! Soy Álvaro Ruiz / Hello! I'm Álvaro Ruiz</h1>
 
 <p align="center">
   Desarrollador Full-Stack | Full-Stack Developer  
@@ -15,31 +15,31 @@
 
 ## 🇪🇸 Español
 
-### 🚀 Sobre mí  
+### Sobre mí  
 Soy un desarrollador con interés en apreder. Me apasiona crear aplicaciones funcionales, investigar nuevas tecnologías y mejorar mis habilidades cada día.
 
-### 🛠️ Tecnologías que uso
+### Tecnologías que uso
 <div align="left">
   
 | Backend | Frontend | Otros |
 |--------|----------|-------|
-| Java ☕ | Angular ⚡ | Git 🧩 |
-| C 💻 | HTML/CSS 🌐 | MySQL 🗄️ |
+| Java | Angular  | Git  |
+| C  | HTML/CSS  | MySQL  |
 
 </div>
 
 ---
 
-### ⭐ Proyectos destacados
+###  Proyectos destacados
 🔹 **MiBiblioteca** — App Java + MySQL para gestionar y recomendar libros  
 🔹 **Push Swap** — Implementación del algoritmo en C  
 🔹 **BarberiaDistrito4** — Sitio web moderno
 
-> Puedes verlos fijados en mi perfil 👇
+> Puedes verlos fijados en mi perfil 
 
 ---
 
-### 📊 Estadísticas
+###  Estadísticas
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaro-ruiz&show_icons=true&theme=tokyonight&hide_border=true)  
@@ -49,38 +49,38 @@ Soy un desarrollador con interés en apreder. Me apasiona crear aplicaciones fun
 
 ---
 
-### 📬 Contacto  
-📧 Email: *aaruizblanquez@gmail.com*  
-🔗 LinkedIn: *www.linkedin.com/in/álvaro-ruiz-blánquez-aruiz-bl*
+###  Contacto  
+ Email: *aaruizblanquez@gmail.com*  
+ LinkedIn: *www.linkedin.com/in/álvaro-ruiz-blánquez-aruiz-bl*
 
 ---
 
 ## 🇬🇧 English
 
-### 🚀 About me  
+###  About me  
 I am a developer with an interest in learning. I am passionate about creating functional applications, researching new technologies, and improving my skills every day.
 
-### 🛠️ Tools & Skills
+### Tools & Skills
 
 <div align="left">
   
 | Backend | Frontend | Other |
 |--------|----------|--------|
-| Java ☕ | Angular ⚡ | Git 🧩 |
-| C 💻 | HTML/CSS 🌐 | MySQL 🗄️ |
+| Java  | Angular  | Git  |
+| C  | HTML/CSS  | MySQL  |
 
 </div>
 
 ---
 
-### ⭐ Featured Projects
+###  Featured Projects
 🔹 **MiBiblioteca** — Java app with MySQL for book management and recommendations  
 🔹 **Push Swap** — Algorithm implementation in C  
 🔹 **BarberiaDistrito4** — Modern web project
 
 ---
 
-### 📊 Stats
+### Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaro-ruiz&show_icons=true&theme=tokyonight&hide_border=true)  
@@ -92,8 +92,8 @@ I am a developer with an interest in learning. I am passionate about creating fu
 
 <div align="center">
   
-💡 *Gracias por visitar mi perfil — Thanks for stopping by!*  
-✨ *Always building, always learning.*
+ *Gracias por visitar mi perfil — Thanks for stopping by!*  
+ *Always building, always learning.*
 
 </div>
 
